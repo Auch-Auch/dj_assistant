@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mutagen
+qrcode[pil]
+httpx
+pytest

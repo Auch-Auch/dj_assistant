@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Build output
+dj_asistent/build_env/
+dj_asistent/build/
+dj_asistent/dist/
+
+# App runtime data (library DB, settings with API key and PIN, uploads)
+dj_asistent/data/
+*.db
+*.db-shm
+*.db-wal
+
+# Editor history
+.history/
+
+# Personal Traktor files
+collection.nml
+*.tsi
+
+build
+build_env
+dist
